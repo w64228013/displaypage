@@ -1,2 +1,0 @@
-# displaypage
-only to display 

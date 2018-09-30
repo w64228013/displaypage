@@ -1,2 +1,2 @@
 # displaypage
-only to display 
+### Click the other .md file.
